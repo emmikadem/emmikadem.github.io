@@ -5,11 +5,13 @@ body {
 }
 
 .about {
-    background-color: yellow;
+    background-color: rgb(42, 81, 190);
     padding: 0px;
 }
 
 .projects {
-    background-color: yellow;
+    background-color: rgb(158, 50, 149);
     padding: 10px;
 }
+
+
